@@ -1,0 +1,15 @@
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\bin\Debug\net6.0\N 6.exe
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\bin\Debug\net6.0\N 6.deps.json
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\bin\Debug\net6.0\N 6.runtimeconfig.json
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\bin\Debug\net6.0\N 6.dll
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\bin\Debug\net6.0\N 6.pdb
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.AssemblyInfo.cs
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.dll
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\refint\N 6.dll
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.pdb
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\N 6.genruntimeconfig.cache
+C:\Users\henri\Desktop\aulas de programação\Curso C#\Exercício 1\N 6\obj\Debug\net6.0\ref\N 6.dll
