@@ -1,11 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Digite 2 números inteiros pra saber se eles são múltiplos ou não: ");
-string[] vet = Console.ReadLine().Split(' ');
-int maior = int.Parse(vet[0]);
-int menor = int.Parse(vet[1]);
+Console.WriteLine("Digite um número inteiro para saber se ele é par ou impar: ");
+int n = int.Parse(Console.ReadLine());
 
-if (maior % menor == 0 ||  menor % maior == 0){
-    Console.WriteLine("São multiplos");
+if (n % 2 == 0) {
+    Console.WriteLine("Par");
 } else {
-    Console.WriteLine("Não são múltiplos");
+    Console.WriteLine("Impar");
 }
