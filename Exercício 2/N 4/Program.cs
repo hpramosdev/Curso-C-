@@ -5,17 +5,11 @@ double horarioInicio =  double.Parse(s[0]);
 double horarioFinal = double.Parse(s[1]);
 int count = 0;
 
-if (horarioInicio == horarioFinal){
-    count = 24;
+if (horarioInicio < horarioFinal){
+    count = horarioFinal - horarioInicio;
+} else {
+    count = 24 - horarioInicio + horarioFinal;
 }
-
-while (horarioInicio != horarioFinal){
-    count++;
-    horarioInicio++;
-    if (horarioInicio == 24){
-        horarioInicio = 0;
-    }
-} 
 
 if (count < 1 || count > 24){
     Console.WriteLine("ERRO");
